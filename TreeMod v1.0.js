@@ -1,3 +1,4 @@
+//TreeMod v1.0 I hope this would work for 1.1.4 version,try and let me know!!!
 axeIds = [258, 271, 275, 279, 286];
 var woodId = 17;
 
